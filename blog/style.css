@@ -1,0 +1,37 @@
+body {
+
+    background-color:darkslategrey
+    }
+
+
+
+    
+.center-img {
+
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+
+.h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h3 {
+
+    text-align: center;
+}
+
+.text {
+
+    color: antiquewhite;
+}
+
+
+.str {
+    color:darkorange;
+}
